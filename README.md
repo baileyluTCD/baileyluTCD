@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am very likely to say "I use <i>x</i> by the way" completely unprompted.<br><br>I am very passionate about my tooling and mastering my trade and am not afraid to try and use niche technologies if they offer me clear benefits.<br><br>I prefer statically typed languages (specifically of the [hindley milner variety](https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system)), but I enjoy various scripting languauges and attempt to pick the right tool for the job.</p>
+<p align="left">I am very likely to say "I use <i>x</i> by the way" completely unprompted.<br><br>I am very passionate about my tooling and mastering my trade and am not afraid to try and use niche technologies if they offer me clear benefits.<br><br>I prefer statically typed languages (specifically of the <a href="https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system">hindley milner variety</a>), but I enjoy various scripting languauges and attempt to pick the right tool for the job.</p>
 
 ###
 
