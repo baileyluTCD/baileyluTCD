@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">One day I will bundle myself as a nix package</p>
+<p align="center">One day I will bundle myself as a nix package</p>
 
 ###
 
