@@ -21,11 +21,13 @@ Currently pursuing a degree in Computer Science at Trinity College Dublin, I enj
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baileyluTCD&show_icons=true&theme=radical)
+![baileyluTCD's Stats](https://github-readme-stats.vercel.app/api?username=baileyluTCD&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![baileyluTCD's Streak](https://github-readme-streak-stats.herokuapp.com/?user=baileyluTCD&theme=nord&hide_border=false)
+![baileyluTCD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baileyluTCD&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ## Latest Blog Posts
 
-Check out my blog [here]([baileyluTCD.github.io](https://baileylutcd.github.io/)
+Check out my blog [here](https://baileylutcd.github.io/)
 
 ## Connect with Me
 
