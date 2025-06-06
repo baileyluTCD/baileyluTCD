@@ -1,28 +1,33 @@
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="40" alt="nixos logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+## Hi there! 👋
 
-###
+I'm Luke Bailey, a software developer based in Dublin, Ireland. Passionate about open-source contributions and building efficient systems!
 
-<p align="center">One day I will bundle myself as a nix package</p>
+## About Me
 
-###
+Currently pursuing a degree in Computer Science at Trinity College Dublin, I enjoy working with various programming languages and technologies, particularly in the realm of Nix and Elixir.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=baileyluTcd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=baileyluTcd&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+## Skills & Technologies
 
-###
+- Web Development
+- DevOps - particularly through Nix
+- Rust/Performant Code
+
+## Top Projects
+
+- [bun2nix](https://github.com/baileyluTCD/bun2nix): Generate a nix expression to build bun packages
+- [nixos-configuration](https://github.com/baileyluTCD/nixos-configuration): The full configuration for my nix system and home-managed modules
+- [new-gear-motors](https://github.com/baileyluTCD/new-gear-motors): Web app for new gear motors garage
+- [serde-deserialize-duplicates](https://github.com/baileyluTCD/serde-deserialize-duplicates): A Rust crate with helper macros providing an alternate implementation of serde's Deserialize for cases when duplicate values exist in the source data
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baileyluTCD&show_icons=true&theme=radical)
+
+## Latest Blog Posts
+
+Check out my blog [here]([baileyluTCD.github.io](https://baileylutcd.github.io/)
+
+## Connect with Me
+
+- [Email Me](mailto:baileylu@tcd.ie)
+- [Add Me on LinkedIn](https://linkedin.com/in/luke-bailey-76aa62344)
