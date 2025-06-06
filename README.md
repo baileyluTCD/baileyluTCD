@@ -27,7 +27,7 @@ Currently pursuing a degree in Computer Science at Trinity College Dublin, I enj
 
 ## Latest Blog Posts
 
-Check out my blog [here](https://baileylutcd.github.io/)
+Check out my blog [here](https://baileylutcd.github.io/).
 
 ## Connect with Me
 
