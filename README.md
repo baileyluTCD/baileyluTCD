@@ -9,7 +9,7 @@ Currently pursuing a degree in Computer Science at Trinity College Dublin, I enj
 ## Skills & Technologies
 
 - Web Development
-- DevOps - particularly through [Nix](https://github.com/orgs/NixOS/teams/nixpkgs-committers?query=baileyluTCD)
+- DevOps - particularly through Nix
 - Rust/Performant Code
 
 ## Top Projects
